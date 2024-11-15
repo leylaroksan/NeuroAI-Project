@@ -1,0 +1,1 @@
+This is a NeuroAI project to build a model that can predict the response of simulated V1 neurons to a set of naturalistic color images. Following the example of the NeurIPS paper (Klindt et al., 2017), I implement a similar model that consists of a CNN with a sparse readout layer that can factorize between neurons that code for spatial and feature dimensions.
